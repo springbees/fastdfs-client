@@ -1,0 +1,44 @@
+.mymetadata
+.checkstyle
+.class
+.war
+.zip
+.rar
+.settings/*
+/indexes/*
+/src/main/webapp/WEB-INF/classes/*
+/src/main/webapp/userfiles/*
+target/
+node_modules/
+
+### Mac ###
+.DS_Store
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Net Beans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Android Studio ###
+gradle/
+app/release/
+
+### Visual Studio Code###
+.vscode/
